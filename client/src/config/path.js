@@ -1,2 +1,2 @@
 
-export const RootPath = 'http://localhost:5000/';
+export const RootPath = 'https://ly.vercel.app/';
